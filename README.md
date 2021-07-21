@@ -1,7 +1,7 @@
 
 # Do You Know Me
 
-A Simple CLI app which will tell me how well do you know me.
+A Simple CLI app which will tell me how well Do you know me.
 
 These is my First Assignement of Level 0.
 
